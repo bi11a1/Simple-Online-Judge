@@ -1,0 +1,56 @@
+.title{
+	padding: 10px;
+	font-size: 110%;
+}
+.text, .select {
+	width: 100%;
+    padding: 10px;
+    font-size: 90%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.file {
+	margin: 10px 10px 0px 0px;
+    padding: 0px;
+    font-size: 90%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;	
+}
+.submit {
+	margin: 20px;
+	font-size: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.submit:hover {
+    background-color: #45a049;
+}
+
+.button:link, .button:visited {
+    width: auto;
+    background-color: lavender;
+    color: black;
+    padding: 10px;
+    font-size: 80%;
+    float: right;
+    border: 2px solid grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover, .button:active {
+    background-color: white;
+    color: black;
+    -webkit-transition-duration: 0.5s; /* Safari */
+    transition-duration: 0.5s;
+    opacity: 0.8;
+}
