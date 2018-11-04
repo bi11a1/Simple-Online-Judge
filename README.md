@@ -9,17 +9,17 @@ password: guest
 ```
 
 # Screenshots of the website
-<br/>**Login Page**<br/>
+<br/><br/><br/><br/>**Login Page**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture.PNG)
-<br/>**Registration Page**<br/>
+<br/><br/><br/><br/>**Registration Page**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture1.PNG)
-<br/>**Home Page**<br/>
+<br/><br/><br/><br/>**Home Page**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture2.PNG)
-<br/>**Problem lists**<br/>
+<br/><br/><br/><br/>**Problem lists**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture3.PNG)
-<br/>**Contest login**<br/>
+<br/><br/><br/><br/>**Contest login**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture4.PNG)
-<br/>**Contest Dashboard**<br/>
+<br/><br/><br/><br/>**Contest Dashboard**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture5.PNG)
-<br/>**Submit Problem**<br/>
+<br/><br/><br/><br/>**Submit Problem**<br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture6.PNG)
