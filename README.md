@@ -8,8 +8,9 @@ username: guestuser
 password: guest
 ```
 
-# Screenshots of the project
-![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture.PNG)
+# Screenshots of the website
+**Home Page**
+   ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture.PNG)
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture1.PNG)
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture2.PNG)
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture3.PNG)
