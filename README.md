@@ -1,7 +1,7 @@
 # Simple-Online-Judge
 It is a simple online judge where user can practice problem or take part in a contest. For submitting the solution for a problem, one needs to create the output file first and then submit it.
 
-**Online Live Demo:** https://cseprogramminglab.000webhostapp.com/COj/Login.php <br/>
+**Online Live Demo:** http://cseprogramminglab.000webhostapp.com/COj/Login.php <br/>
 (N.B: It is a free hosting webserver, the server may get down sometime)<br><br>
 **Guest Login:**
 ```
