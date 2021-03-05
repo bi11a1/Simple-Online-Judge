@@ -9,7 +9,7 @@ username: guestuser
 password: guest
 ```
 
-# Screenshots of the website
+## Screenshots of the website
 <br/><br/><br/><br/>**Login Page:**<br/><br/>
 ![alt text](https://github.com/bi11a1/Simple-Online-Judge/blob/master/Demo%20images/Capture.PNG)
 <br/><br/><br/><br/>**Registration Page:**<br/><br/>
